@@ -5,7 +5,7 @@ certifi==2025.1.31
 charset-normalizer==3.4.1
 colorama==0.4.6
 filetype==1.2.0
-google-ai-generativelanguage==0.6.16
+google-ai-generativelanguage==0.6.15
 google-api-core==2.24.2
 google-api-python-client==2.166.0
 google-auth==2.38.0
@@ -28,7 +28,7 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==0.3.21
 langchain-core==0.3.49
-langchain-google-genai==2.1.1
+langchain-google-genai==2.0.0
 langchain-text-splitters==0.3.7
 langsmith==0.3.19
 numpy==2.2.4
